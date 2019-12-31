@@ -3,6 +3,13 @@
 My rust is a bit rusty.
 
 ```
-cd day01
+cd dayXX
+# create input file to input/input.txt
 cat input/input.txt | cargo run
+```
+
+execpt for day 25
+```
+# create input file to input/input.txt
+cargo run
 ```
